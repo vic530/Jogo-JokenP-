@@ -13,7 +13,7 @@ O jogo simula uma partida entre o usuário e o computador, que realiza escolhas 
 </p>
 
 <p align="center">
-  <img src="img-readme/maquina-vence.gif" width="400" alt="Vitória do robô">
+  <img src="img-readme/vencedor.gif.mp4" width="400" alt="Vitória do robô">
 </p>
 
 ---
