@@ -6,12 +6,15 @@ O jogo simula uma partida entre o usuário e o computador, que realiza escolhas 
 
 ---
 
-## 🎮 Demonstração
+## 🎮 Demonstração do Jogo
+
 <p align="center">
-  <img src="" width="400" alt="Demonstração do jogo Pedra Papel Tesoura">
+  <img src="img-readme/vencedor.gif" width="400" alt="Vitória do jogador humano">
 </p>
 
-
+<p align="center">
+  <img src="img-readme/maquina-vence.gif" width="400" alt="Vitória do robô">
+</p>
 
 ---
 <div align="center">
