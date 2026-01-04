@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=BBH+Bartle&family=Domine:wght@400..700&display=swap"
+      rel="stylesheet"
+    />
+    <title>JokenPô</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>JokenPô</h1>
+
+      <div class="escolhas">
+        <button id="rock" class="btn-choice">
+          <img id="git" src="./img/pedra-01.png" alt="GIF animado" />
+        </button>
+        <button id="paper" class="btn-choice">
+          <img id="git" src="./img/papel-01.png" alt="GIF animado" />
+        </button>
+        <button id="scissors" class="btn-choice">
+          <img id="git" src="./img/traced-01.png" alt="GIF animado" />
+        </button>
+      </div>
+
+      <div class="text-but">
+      <h2 id="result">Faça sua escolha!</h2>
+      <button class="but-reset" onclick="botaoReset(true)">Reiniciar Jogo</button>
+      </div>
+
+      <div class="resultado">
+
+        <div class="text">
+          <p id="your-score">Sua pontuação: <span id="placa-humano">0</span></p>
+            <img id="valor-humano" class="img-gif" src="./img/papel.gif" />
+          <p id="machine-score">Pontuação do Robô: <span id="placa-robo">0</span></p>
+            <img id="valor-robo" class="img-gif-r" src="./img/pedra.gif" />
+        </div>
+
+        <img id="vitoria" class="img-vitoria" src="./img/robô.png" />
+      </div>
+
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

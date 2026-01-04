@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Domine','Courier New', Courier, monospace
+;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://picsum.photos/1920/1080);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    padding: 30px;
+    background-color: rgba(252, 235, 182, 0.6);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.escolhas{
+    margin: 30px 0 30px 0;
+    display: flex;
+    gap: 30px;
+}
+.btn-choice {
+    padding: 10px;
+    font-size: 70px;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    transition: opacity 0.5s ease-in-out;
+}
+.btn-choice:hover{
+    opacity: 0.7;
+}
+
+#rock{
+    background-color: #ca221f;
+}
+#paper{
+    background-color: #17c69b;
+}
+#scissors{
+    background-color: #fda543;
+}
+
+h1 {
+    font-family: 'BBH Bartle', 'Domine','Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.text-but {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 20px;
+}
+h2 {
+    font-size: 40px; 
+}
+.but-reset {
+    display: none;
+    background-color: #871e6e;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 5px 5px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin: none;
+    cursor: pointer;
+}
+.but-reset:hover {
+    opacity: 0.8;
+}
+.but-reset:active {
+    opacity: 0.5;
+}
+
+.resultado {
+    display: flex;
+}
+
+p { 
+    
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    text-align: left;
+    
+}
+
+#your-score span {
+    color:#292cf1;
+    font-size: 30px;
+}
+
+#machine-score span {
+    color:#e72828;
+    font-size: 30px;
+}
+
+.img-gif {
+    display: none;
+    height: 80px;
+    width: auto;
+    margin-left: 30%;
+}
+.img-gif-r {
+    display: none;
+    height: 80px;
+    width: auto;
+    margin-left: 30%;
+}
+
+.img-vitoria {
+    display: none;
+    height: 300px;
+    margin-left: 150px;
+    
+}
