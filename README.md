@@ -14,7 +14,7 @@ O jogo simula uma partida entre o usuário e o computador, que realiza escolhas 
 
 ---
 <div align="center">
-  <a href="https://vic530.github.io/Convert-Money/"  target="blank">
+  <a href="https://vic530.github.io/Jogo-JokenP-/"  target="blank">
     <img src="https://img.shields.io/badge/🔗 Acessar o Projeto-1E90FF?style=for-the-badge" alt="Acessar Projeto"/>
   </a>   
 </div>
