@@ -6,11 +6,15 @@ O jogo simula uma partida entre o usuário e o computador, que realiza escolhas 
 
 ---
 
-## 🎮 Demonstração
+## 🎮 Demonstração do Jogo
 
-> Projeto executado diretamente no navegador, sem necessidade de servidor.
+<p align="center">
+  <img src="img-readme/vencedor.gif" width="400" alt="Vitória do jogador humano">
+</p>
 
-*(Você pode adicionar aqui futuramente um GIF ou print do jogo em funcionamento)*
+<p align="center">
+  <img src="img-readme/vencedor.gif.mp4" width="400" alt="Vitória do robô">
+</p>
 
 ---
 <div align="center">
