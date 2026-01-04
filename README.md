@@ -7,10 +7,11 @@ O jogo simula uma partida entre o usuário e o computador, que realiza escolhas 
 ---
 
 ## 🎮 Demonstração
+<p align="center">
+  <img src="" width="400" alt="Demonstração do jogo Pedra Papel Tesoura">
+</p>
 
-> Projeto executado diretamente no navegador, sem necessidade de servidor.
 
-*(Você pode adicionar aqui futuramente um GIF ou print do jogo em funcionamento)*
 
 ---
 <div align="center">
