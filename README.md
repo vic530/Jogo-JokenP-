@@ -9,19 +9,20 @@ O jogo simula uma partida entre o usuário e o computador, que realiza escolhas 
 ## 🎮 Demonstração do Jogo
 
 <p align="center">
-  <img src="img-readme/vencedor.gif" width="400" alt="Vitória do jogador humano">
+  <img src="img-readme/vitoria.gif" width="400" alt="Vitória do robô">
 </p>
 
 <p align="center">
-  <img src="img-readme/vencedor.gif.mp4" width="400" alt="Vitória do robô">
+  <img src="img-readme/vitoria.robo.gif" width="400" alt="Vitória do jogador humano">
 </p>
 
 ---
 <div align="center">
-  <a href="https://vic530.github.io/Jogo-JokenP-/"  target="blank">
-    <img src="https://img.shields.io/badge/🔗 Acessar o Projeto-1E90FF?style=for-the-badge" alt="Acessar Projeto"/>
-  </a>   
+  <a href="https://vic530.github.io/Jogo-JokenP-/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20Acessar%20o%20Projeto-1E90FF?style=for-the-badge" alt="Acessar Projeto"/>
+  </a>
 </div>
+
 
 ## 🧠 Regras do Jogo
 
@@ -62,7 +63,7 @@ O jogo simula uma partida entre o usuário e o computador, que realiza escolhas 
 ---
 
 ## 📂 Estrutura de Pastas
-<h2>👨‍💻 Autor</h2>
-<p>Victor Dantas</p>
+👨‍💻 Autor:
+    Victor Dantas
 📌 GitHub: https://github.com/vic530
 
