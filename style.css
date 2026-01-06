@@ -13,7 +13,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 .container{
     padding: 30px;
@@ -89,7 +89,6 @@ h2 {
 }
 
 p { 
-    
     font-weight: bold;
     font-size: 25px;
     margin-bottom: 15px;
@@ -126,4 +125,70 @@ p {
     height: 300px;
     margin-left: 150px;
     
+}
+
+
+@media (max-width: 600px) {
+
+  h1 {
+    font-size: 32px;
+  }
+
+.escolhas{
+    margin: 20px 0;
+    gap: 15px;
+}
+
+  .text-but {
+    display: flex;
+    width: 100%;
+}
+
+.but-reset {  
+    font-size: 15px;
+    
+}   
+h2 {
+    font-size: 20px;
+  }
+
+ .resultado{
+    flex-direction: column;
+ }
+
+  .text {
+    display: flex;
+    gap: 5px;
+  }
+
+  p {
+    font-size: 15px;
+    text-align: center;
+    
+  }
+
+  .img-vitoria {
+    height: 200px;
+    margin-left: auto; 
+    margin-right: auto;
+    
+}
+
+  #your-score span, #machine-score span{
+    font-size: 18px;
+  }
+
+  .btn-choice img {
+    width: 70px;
+  }
+
+  .img-gif,
+  .img-gif-r {
+    height: 40px;
+    margin-left: 0;
+  }
+  .img-gif-r {
+    margin: 0;
+  }
+
 }
